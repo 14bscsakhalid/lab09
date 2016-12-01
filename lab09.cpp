@@ -23,7 +23,7 @@ void main(){
 	 cout << "\nEnter order of your equation (max 2): ";
 	 cin >> order;
 	 if(order != 1 && order != 2){
-		  cout<<"\nI N V A L I D  O R D E R  S E L E C T E D!";
+		  cout << "\nI N V A L I D  O R D E R  S E L E C T E D!";
 		  //exit(1);
 	 }
 	 else{
